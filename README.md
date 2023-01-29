@@ -2,4 +2,5 @@
 Deployment: https://jahnav-sannapureddy.github.io/randomanime/
 
 Shows title of the random anime
-Provides MAL link of the randomly generated anime
+
+Provides MAL link of the generated anime
