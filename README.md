@@ -1,5 +1,5 @@
 # Random Anime
-Deployment: https://jahnav-sannapureddy.github.io/randomanime/
+Deployment: https://jahnav-sannapureddy.github.io/random-anime/
 
 Shows title of the random anime
 
